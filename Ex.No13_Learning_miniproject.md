@@ -51,7 +51,8 @@ Stop.
 
 ### Program:
 
-```python
+```
+python
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -168,8 +169,13 @@ nx.draw(G, pos, with_labels=True, node_color="lightblue", node_size=2500, font_s
 plt.title("Temple Map Graph")
 plt.axis("off")
 plt.show()
-
+```
 # OUTPUT 
+<img width="919" height="742" alt="download (5)" src="https://github.com/user-attachments/assets/0a676ecb-3007-4ed4-b702-a7a58b68c8ac" />
+<img width="563" height="435" alt="download (6)" src="https://github.com/user-attachments/assets/6f85e5f4-2adf-40fc-b100-5d83136ac9e1" />
+<img width="828" height="398" alt="download (7)" src="https://github.com/user-attachments/assets/7e7afcc8-56f8-4c1d-8f50-32c09b5c0088" />
+
+
 
 # RESULT
 Thus, the supervised learning model for temple crowd level prediction was trained successfully, and the system suggested suitable routes for different devotees based on predicted crowd conditions.
